@@ -18,4 +18,7 @@ Considere que você está participando de um processo seletivo para uma vaga de 
 <p>5.	Excluir Pessoa da Agenda: ao selecionar essa opção, o usuário deverá indicar o nome do contato que deseja excluir os dados, caso seja encontrado excluir o mesmo e escrever na tela “Cadastro excluído”, caso não encontrado indicar: Pessoa com o nome XXX não encontrada;</p>
 <p>6.	Sair do sistema: o programa deve ser encerrado se, e somente se, o usuário escolher essa opção.</p>
 
-
+<H1>The extra mile</H1>
+<p>- A proposta do trabalho é relativamente simples, seria possível realizar utilizando uma lista, algunas iterações, e estaria resolvido. Mas na minha família temos 4 pedros, procurar um contato pelo nome poderia não funcionar. Por isso acrescentei uma chave primária, e a possibilidade de, após procurar o contato, selecionar qual das opções você queria, efetivamente;</p>
+<p>- Ao fim de cada operação o usuário é questionado se deseja permanecer no programa ou não;</p>
+<p>- Embora não fizesse parte do escopo da matéria, tentei criar minhas próprias funções e reutilizá-las na medida do possível. 
