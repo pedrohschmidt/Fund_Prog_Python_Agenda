@@ -21,4 +21,4 @@ Considere que você está participando de um processo seletivo para uma vaga de 
 <H1>The extra mile</H1>
 <p>- A proposta do trabalho é relativamente simples, seria possível realizar utilizando uma lista, algunas iterações, e estaria resolvido. Mas na minha família temos 4 pedros, procurar um contato pelo nome poderia não funcionar. Por isso acrescentei uma chave primária, e a possibilidade de, após procurar o contato, selecionar qual das opções você queria, efetivamente;</p>
 <p>- Ao fim de cada operação o usuário é questionado se deseja permanecer no programa ou não;</p>
-<p>- Embora não fizesse parte do escopo da matéria, tentei criar minhas próprias funções e reutilizá-las na medida do possível. 
+<p>- Embora não fizesse parte do escopo da matéria, tentei criar minhas próprias funções encapsuladas e reutilizá-las na medida do possível.</p>
